@@ -1,0 +1,23 @@
+{
+    "name": "edutalk-cms/users",
+    "description": "Edutalk users",
+    "license": "MIT",
+    "homepage": "http://edutalk.vn",
+    "authors": [
+        {
+            "name": "Vuong Pham",
+            "email": "kingdom102@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Edutalk\\Base\\Users\\": "src"
+        },
+        "files": [
+
+        ]
+    }
+}

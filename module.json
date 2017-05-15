@@ -1,0 +1,8 @@
+{
+    "alias": "edutalk-users",
+    "name": "Users",
+    "author": "Vuong Pham - <a href=\"https://github.com/vuong.pham\">https://github.com/vuong.pham</a>",
+    "description": "Manage users",
+    "namespace": "Edutalk\\Base\\Users",
+    "autoload": "psr-4"
+}
